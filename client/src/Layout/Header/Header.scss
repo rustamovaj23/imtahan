@@ -1,0 +1,24 @@
+.header {
+//   position: absolute;
+  .header1 {
+    height: 15vh;
+    width: 100vw;
+    background-color: white;
+    // position: absolute;
+    // z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    // position: sticky;
+    // position: fixed;
+ 
+    .first {
+      display: flex;
+      gap: 20px;
+    }
+    .links {
+      display: flex;
+      gap: 20px;
+    }
+  }
+}

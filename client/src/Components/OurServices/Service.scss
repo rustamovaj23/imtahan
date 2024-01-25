@@ -1,0 +1,21 @@
+.first{
+    width: 400px;
+}
+.top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+}
+.all{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
